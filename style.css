@@ -595,26 +595,24 @@ footer p {
         width: 100%;
     }
 
-    .row-container {
-        flex-direction: column;
-    }
-
     #about {
         padding: 3rem 1.5rem;
     }
 
-    .about-container {
-        flex-direction: column;
+    .about-content {
+        display: flex;
+        flex-direction: column-reverse;
         text-align: center;
         gap: 2rem;
     }
 
-    .about-text h2 {
+    .about-text-block h2 {
         text-align: center;
     }
 
-    .about-photo {
+    .about-img {
         width: 100%;
         max-width: 300px;
+        margin: 0 auto;
     }
 }
