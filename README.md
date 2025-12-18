@@ -25,7 +25,7 @@ Este projeto foi concebido como parte da minha jornada de aprendizado na **Alpha
 O projeto seguiu um fluxo de design focado na experiência do usuário, priorizando:
 1. **Identidade Visual:** Uso de uma paleta de cores moderna (Slate & Blue).
 2. **Escalabilidade:** Estrutura CSS baseada em variáveis para fácil manutenção.
-3. Link do prototipo: https://www.figma.com/proto/u7CH4TzJHkY5gvX2hodeiw/projeto-relampago?node-id=1-26&t=tC4jR5vxlfN8EuBX-1
+3. **Link do prototipo:** https://www.figma.com/proto/u7CH4TzJHkY5gvX2hodeiw/projeto-relampago?node-id=1-26&t=tC4jR5vxlfN8EuBX-1
 
 ---
 
